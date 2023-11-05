@@ -7,8 +7,9 @@ A simple spigot plugin to brew ale that gives effects with a cute GUI.
 
 - [@Yxini](https://www.github.com/urtzicm)
 ## Screenshots
-Ale barrel menu
+Ale barrel menu<br/>
 ![Barrel menu](https://imgur.com/UE7Wksn.png)
-Ale
+<br/>
+Ale<br/>
 ![On hover](https://imgur.com/cWRK58K.png)
 
